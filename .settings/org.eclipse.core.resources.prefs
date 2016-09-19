@@ -1,7 +1,3 @@
 eclipse.preferences.version=1
 encoding//src/GUIs/AboutDialog.py=utf-8
 encoding//src/GUIs/MainWindow.py=utf-8
-encoding//src/GUIs/PDIRMainWindow.py=utf-8
-encoding//src/GUIs/TagEditDialog.py=utf-8
-encoding//src/GUIs/TagEditWidget.py=utf-8
-encoding//src/GUIs/TagNamesDialog.py=utf-8

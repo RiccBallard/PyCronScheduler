@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/rballard/work/workspace/ProjectDirector/src/UIs/AboutDialog.ui'
+# Form implementation generated from reading ui file '/home/rballard/work/workspace/PyCronScheduler/src/UIs/AboutDialog.ui'
 #
 # Created by: PyQt4 UI code generator 4.11.4
 #
@@ -70,7 +70,7 @@ class Ui_aboutDialog(object):
 
     def retranslateUi(self, aboutDialog):
         aboutDialog.setWindowTitle(_translate("aboutDialog", "About Go Pro Project", None))
-        self.label.setText(_translate("aboutDialog", "Project Director", None))
+        self.label.setText(_translate("aboutDialog", "PyCronScheduler", None))
         self.label_2.setText(_translate("aboutDialog", "V.01a", None))
         self.label_3.setText(_translate("aboutDialog", "Author: ", None))
         self.label_6.setText(_translate("aboutDialog", "Ricc Ballard", None))

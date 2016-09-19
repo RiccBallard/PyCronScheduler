@@ -31,7 +31,7 @@
      <item>
       <widget class="QLabel" name="label">
        <property name="text">
-        <string>Project Director</string>
+        <string>PyCronScheduler</string>
        </property>
       </widget>
      </item>
